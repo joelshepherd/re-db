@@ -1,0 +1,6 @@
+{
+  "name": "re-db",
+  "sources": { "dir": "src" },
+  "package-specs": "es6",
+  "suffix": ".mjs"
+}

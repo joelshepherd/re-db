@@ -1,0 +1,7 @@
+{
+  "name": "re-db",
+  "private": true,
+  "dependencies": {
+    "rescript": "^9.1.4"
+  }
+}
